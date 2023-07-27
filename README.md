@@ -17,4 +17,11 @@ W nowym oknie terminala przejdź do katalogu **back-end** i wpisz:
 npm install
 npm run start
 ```
+## Test
+W nowym oknie terminala przejdź do katalogu **testy** i wpisz: 
+```
+npm install
+npm run cypress:open
+```
+Następnie wybierz i uruchom test w wybranym oknie
 I to wszystko :)
