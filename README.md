@@ -1,7 +1,7 @@
 # Testy-E2E---Nauka-Cypress
 Uczę się pisać testy End to End w Cypress
 
----
+#
 
 ## Front-end
 Aby uruchomić front-end wejdź (używając Twojego ulubionego terminala) do katalogu **front-end** i wpisz: 
